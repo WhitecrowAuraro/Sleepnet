@@ -1,0 +1,8 @@
+#!/bin/bash
+/etc/init.d/icecast2 restart
+sleep 10
+echo icecast restart
+sleep 2
+ezstream -c /root/ezstream_mp3.xml
+
+# remember to chmod +x this file and move it to /usr/bin
