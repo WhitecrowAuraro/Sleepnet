@@ -1,3 +1,7 @@
+you should probably run this from a different user beside root 
+if you plan on serving the stream to any significant amount of people.
+
+
 apt-get update
 apt-get upgrade
 apt-get install nano gcc make zip build-essential screen pkg-config libxml2-dev icecast2 ezstream 
