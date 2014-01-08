@@ -1,0 +1,67 @@
+html, body { 
+    background-color:#fff;
+    color: #999;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    line-height: 1rem;
+    text-shadow: 1px 1px 2px #ccc;
+    
+}
+div.license {
+    background-color:#fff;
+    color: #ddd;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    text-shadow: 1px 1px  2px #ddd;
+}
+a {
+    color: inherit;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+   
+}
+
+a.blue {
+    color: #0ff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    text-shadow: 1px 1px 2px  #ccc;
+    
+
+}
+a.pi {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    text-decoration: none;
+    
+
+}
+a:hover {
+    background-color:#ccc;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    text-shadow: 1px 1px  2px #ccc;
+    
+}
+a.blue:hover {
+    background-color:#0ff;
+    color: #999;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    text-shadow: 1px 1px  2px #ccc;
+    
+}
+
+
+
+
+
+
